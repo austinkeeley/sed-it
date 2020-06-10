@@ -1,0 +1,11 @@
+# README
+
+My Name is ${NAME}. You can find me on Twitter at ${TWITTER}.
+
+## MD5sum
+
+The following is the md5sum:
+
+```
+${MD5SUM}
+```
